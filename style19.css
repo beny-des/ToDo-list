@@ -1,0 +1,20 @@
+
+li{
+  
+        list-style-type:circle;
+    
+}
+.task-block{
+    
+    border:solid;
+    width: 100%;
+    
+}
+.removesBtns{
+margin-left: 10px;
+margin-top: 10px;
+}
+.addBtns{
+    margin-left: 10px;
+    margin-top: 10px;
+}
